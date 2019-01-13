@@ -1,0 +1,82 @@
+/* Note to students:
+
+Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!
+*/
+
+html {
+    height: 100%;
+  }
+  
+  body {
+    margin: 0;
+    height: 100%;
+    font-family: helvetica;
+  }
+  
+  a {
+    color: darkred ;
+  }
+  
+  header {
+    padding: 15px;
+    background: darkblue;
+    color: lightgray;
+    font-size: 25px;
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+  }
+  
+  form {
+      text-align: center;
+      padding: 15px;
+  }
+
+  #test{
+      padding: 10px;
+  }
+  
+  nav {
+    background-color: lightskyblue;
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin: 15px;
+    font-size: 30px;
+    padding: 5px;
+  }
+  
+  section {
+    width: 95%;
+    margin: 0 auto;
+    padding: 5px;
+    min-height: 800px;
+  }
+  
+  section img {
+    margin-top: 20px;
+  }
+  
+article h2 {
+    background: lightskyblue;
+    padding: 20px; 
+    background-image: src=https://www.thevortex.me/wp-content/uploads/2014/07/hot-button.jpg";
+}
+
+  footer {
+    clear: left;
+    padding: 10px;
+    background:lightslategray ;
+    text-align:center ;
+  }
